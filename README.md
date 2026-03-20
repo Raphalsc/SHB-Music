@@ -51,6 +51,40 @@ Actuellement, cette version est pensée pour **Windows**.
 
 ---
 
+## Aperçu
+
+<p align="center">
+  <a href="screens/base.png">
+    <img src="screens/base.png" width="30%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="screens/youtube.png">
+    <img src="screens/youtube.png" width="30%">
+  </a>
+  <a href="screens/stats.png">
+    <img src="screens/stats.png" width="30%">
+  </a>
+  <a href="screens/choice_history.png">
+    <img src="screens/choice_history.png" width="30%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="screens/aide.png">
+    <img src="screens/aide.png" width="30%">
+  </a>
+  <a href="screens/playlist.png">
+    <img src="screens/playlist.png" width="30%">
+  </a>
+  <a href="screens/rename.png">
+    <img src="screens/rename.png" width="30%">
+  </a>
+</p>
+
+---
+
 ## Installation
 
 Aucune installation compliquée.
