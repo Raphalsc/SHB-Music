@@ -101,17 +101,17 @@ SHB Music Data/
     ├── Ma playlist/
     │   ├── morceau1.mp3
     │   └── morceau2.mp3
-    ├── Rock/
+    ├── Metal/
     │   ├── song_a.mp3
     │   └── song_b.mp3
-    └── Chill/
+    └── Classique/
         └── track.mp3
 ```
 
 Dans cet exemple :
 - `Ma playlist` est une playlist
-- `Rock` est une playlist
-- `Chill` est une playlist
+- `Metal` est une playlist
+- `Classique` est une playlist
 
 ---
 
