@@ -11,7 +11,7 @@
 
 ## Version actuelle
 
-**v1.0.0** — Initial Release
+**v1.1.0** — Better Startup & Playlist Handling
 
 ---
 
